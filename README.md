@@ -1,4 +1,4 @@
-### Tech
+### ⚒️Tech
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -10,12 +10,12 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![jUnit](https://img.shields.io/badge/jUnit-F88900?style=for-the-badge&logo=jUnit&logoColor=white)
 
-### Project
+### 🔧Project
 - 📚 <a href = "https://github.com/WebDevCheon/forallshoppingmall">Forallshoppingmall BookStore</a> (<b>도서 판매 사이트 프로젝트</b>)
 - 📝 <a href = "https://github.com/WebDevCheon/SpringBoard">SpringBoard</a> (<b>웹 프로그래밍 질문 / 공부 게시판</b>)
 - 🔥 <a href = "https://github.com/WebDevCheon/Algorithm">Algorithm</a> (<b>자료구조 / 알고리즘 풀이</b>)
 
-### What I Like
+### 👏What I Like
 - 💻 Coding
 - 🎮 Game
 - 🍣 Sushi
